@@ -1,3 +1,4 @@
+/*Find the elements that are unique or not repeated in the Array*/
 import java.util.*;
 public class Main
 {
