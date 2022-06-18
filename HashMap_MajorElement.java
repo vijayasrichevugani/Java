@@ -1,3 +1,4 @@
+/*Find the element which is repeated more than half the length of an array*/
 import java.util.*;
 
 public class Main
